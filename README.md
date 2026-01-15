@@ -43,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/tebacs">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tebacs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de tebacs" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tebacs&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados por tebacs" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tebacs&show_icons=true&bg_color=111111&text_color=BBBBBB&icon_color=772099&title_color=772099&include_all_commits=true&count_private=true" alt="Estadísticas de tebacs" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tebacs&layout=compact&langs_count=8&bg_color=111111&text_color=BBBBBB&icon_color=772099&title_color=772099" alt="Lenguajes más usados por tebacs" />
   </a>
 </p>
 
