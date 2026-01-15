@@ -1,4 +1,4 @@
-<h1 alighn="center">Bienvenido</h1>
+<h1 align="center">Bienvenido</h1>
 __________
 
 
