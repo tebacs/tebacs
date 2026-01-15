@@ -1,4 +1,4 @@
-Bienvenido <br>
+<h1 alighn="center">Bienvenido</h1>
 __________
 
 
